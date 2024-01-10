@@ -4,3 +4,4 @@ global class WarehouseSyncSchedule implements Schedulable {
         WarehouseCalloutService.runWarehouseEquipmentSync();
     }
 }
+
